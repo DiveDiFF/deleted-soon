@@ -1,4 +1,5 @@
 # Deleted - soon
+- 지워야할 시간이 다가옴..
 
 ## This repo will deleted soon.
 
